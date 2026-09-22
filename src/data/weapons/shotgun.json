@@ -1,0 +1,357 @@
+[
+  {
+    "id": "dbs",
+    "slug": "dbs",
+    "name": "DBS",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge",
+    "baseDamage": 28.0,
+    "carePackage": true,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 70.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 28.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 20.3
+      },
+      {
+        "distance": 50.0,
+        "damage": 15.0
+      },
+      {
+        "distance": 70.0,
+        "damage": 13.0
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "pellets",
+      "pelletCount": 9
+    },
+    "firing": {
+      "kind": "single",
+      "rpm": 400,
+      "normalInterval": 0.2,
+      "cycleLimit": 2
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "o12",
+    "slug": "o12",
+    "name": "O12",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge slug",
+    "baseDamage": null,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 2.0,
+      "max": 50.0
+    },
+    "falloff": [
+      {
+        "distance": 2.0,
+        "damage": 98.7
+      },
+      {
+        "distance": 25.0,
+        "damage": 92.2
+      },
+      {
+        "distance": 50.0,
+        "damage": 88.8
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "slug",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "auto",
+      "rpm": 480,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "rpmOptions": [
+        480
+      ]
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "s12k",
+    "slug": "s12k",
+    "name": "S12K",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge",
+    "baseDamage": 23.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 70.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 23.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 9.8
+      },
+      {
+        "distance": 50.0,
+        "damage": 6.8
+      },
+      {
+        "distance": 70.0,
+        "damage": 5.4
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "pellets",
+      "pelletCount": 9
+    },
+    "firing": {
+      "kind": "single",
+      "rpm": 210,
+      "normalInterval": 0.29,
+      "cycleLimit": null
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "s1897",
+    "slug": "s1897",
+    "name": "S1897",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge",
+    "baseDamage": 26.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 80.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 26.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 18.8
+      },
+      {
+        "distance": 50.0,
+        "damage": 10.0
+      },
+      {
+        "distance": 80.0,
+        "damage": 5.7
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "pellets",
+      "pelletCount": 9
+    },
+    "firing": {
+      "kind": "pump",
+      "rpm": 80,
+      "normalInterval": 0.79,
+      "cycleLimit": null
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "s686",
+    "slug": "s686",
+    "name": "S686",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge",
+    "baseDamage": 26.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 80.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 26.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 16.4
+      },
+      {
+        "distance": 50.0,
+        "damage": 11.5
+      },
+      {
+        "distance": 80.0,
+        "damage": 6.9
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "pellets",
+      "pelletCount": 9
+    },
+    "firing": {
+      "kind": "single",
+      "rpm": 320,
+      "normalInterval": 0.25,
+      "cycleLimit": 2
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "sawed-off",
+    "slug": "sawed-off",
+    "name": "Sawed-off",
+    "category": "SHOTGUN",
+    "ammoType": "12 Gauge",
+    "baseDamage": 21.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 50.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 21.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 10.8
+      },
+      {
+        "distance": 50.0,
+        "damage": 8.0
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "pellets",
+      "pelletCount": 8
+    },
+    "firing": {
+      "kind": "single",
+      "rpm": 230,
+      "normalInterval": 0.3,
+      "cycleLimit": 2
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sawed-off",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sawed-off",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  }
+]

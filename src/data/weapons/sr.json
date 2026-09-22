@@ -1,0 +1,451 @@
+[
+  {
+    "id": "awm",
+    "slug": "awm",
+    "name": "AWM",
+    "category": "SR",
+    "ammoType": ".300 Magnum",
+    "baseDamage": 105.0,
+    "carePackage": true,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 105.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 105.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 105.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 105.0
+      },
+      {
+        "distance": 150.0,
+        "damage": 104.9
+      },
+      {
+        "distance": 200.0,
+        "damage": 104.2
+      },
+      {
+        "distance": 250.0,
+        "damage": 103.1
+      },
+      {
+        "distance": 300.0,
+        "damage": 101.9
+      },
+      {
+        "distance": 400.0,
+        "damage": 99.4
+      },
+      {
+        "distance": 500.0,
+        "damage": 97.0
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "bolt",
+      "rpm": 20,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "timingId": "awm"
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/awm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/awm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "kar98k",
+    "slug": "kar98k",
+    "name": "Kar98k",
+    "category": "SR",
+    "ammoType": "7.62mm",
+    "baseDamage": 79.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 150.0,
+        "damage": 78.5
+      },
+      {
+        "distance": 200.0,
+        "damage": 78.0
+      },
+      {
+        "distance": 250.0,
+        "damage": 77.5
+      },
+      {
+        "distance": 300.0,
+        "damage": 77.0
+      },
+      {
+        "distance": 400.0,
+        "damage": 76.0
+      },
+      {
+        "distance": 500.0,
+        "damage": 75.1
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "bolt",
+      "rpm": 30,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "timingId": "kar98k"
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/kar98k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/kar98k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "lynx-amr",
+    "slug": "lynx-amr",
+    "name": "Lynx AMR",
+    "category": "SR",
+    "ammoType": null,
+    "baseDamage": null,
+    "carePackage": true,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 2.0,
+      "max": 350.0
+    },
+    "falloff": [
+      {
+        "distance": 2.0,
+        "damage": 118.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 118.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 118.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 118.0
+      },
+      {
+        "distance": 150.0,
+        "damage": 117.9
+      },
+      {
+        "distance": 200.0,
+        "damage": 117.1
+      },
+      {
+        "distance": 250.0,
+        "damage": 115.8
+      },
+      {
+        "distance": 300.0,
+        "damage": 114.5
+      },
+      {
+        "distance": 350.0,
+        "damage": 113.1
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "single",
+      "rpm": 80,
+      "normalInterval": 1.1,
+      "cycleLimit": null
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/lynx-amr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/lynx-amr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "m24",
+    "slug": "m24",
+    "name": "M24",
+    "category": "SR",
+    "ammoType": "7.62mm",
+    "baseDamage": 75.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 75.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 75.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 75.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 75.0
+      },
+      {
+        "distance": 150.0,
+        "damage": 74.8
+      },
+      {
+        "distance": 200.0,
+        "damage": 74.4
+      },
+      {
+        "distance": 250.0,
+        "damage": 74.0
+      },
+      {
+        "distance": 300.0,
+        "damage": 73.6
+      },
+      {
+        "distance": 400.0,
+        "damage": 72.8
+      },
+      {
+        "distance": 500.0,
+        "damage": 72.0
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "bolt",
+      "rpm": 30,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "timingId": "m24"
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m24",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m24",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "mosin-nagant",
+    "slug": "mosin-nagant",
+    "name": "Mosin-Nagant",
+    "category": "SR",
+    "ammoType": "7.62mm",
+    "baseDamage": null,
+    "carePackage": false,
+    "status": "archived",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 30.0,
+      "max": 70.0
+    },
+    "falloff": [
+      {
+        "distance": 30.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 79.0
+      },
+      {
+        "distance": 70.0,
+        "damage": 79.0
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "bolt",
+      "rpm": 30,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "timingId": "mosin-nagant"
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "win94",
+    "slug": "win94",
+    "name": "Win94",
+    "category": "SR",
+    "ammoType": ".45 ACP",
+    "baseDamage": null,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 120.0,
+      "max": 180.0
+    },
+    "falloff": [
+      {
+        "distance": 120.0,
+        "damage": 65.6
+      },
+      {
+        "distance": 150.0,
+        "damage": 65.2
+      },
+      {
+        "distance": 180.0,
+        "damage": 64.8
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "bolt",
+      "rpm": 40,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "timingId": "win94"
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/win94",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/win94",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  }
+]

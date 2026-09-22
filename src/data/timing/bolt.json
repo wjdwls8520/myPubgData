@@ -1,0 +1,87 @@
+{
+  "awm": {
+    "intervals": {
+      "none": 2.11,
+      "2x": 2.47,
+      "4x": 2.57,
+      "6x": 2.67,
+      "8x": 2.7
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/awm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "0.01s"
+    }
+  },
+  "kar98k": {
+    "intervals": {
+      "none": 1.68,
+      "2x": 1.93,
+      "4x": 2.13,
+      "6x": 2.23,
+      "8x": 2.29
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/kar98k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "0.01s"
+    }
+  },
+  "m24": {
+    "intervals": {
+      "none": 1.56,
+      "2x": 1.95,
+      "4x": 2,
+      "6x": 2.03,
+      "8x": 2.1
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m24",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "0.01s"
+    }
+  },
+  "mosin-nagant": {
+    "intervals": {
+      "none": 1.63,
+      "2x": 2.02,
+      "4x": 2.17,
+      "6x": 2.25,
+      "8x": 2.3
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "0.01s"
+    }
+  },
+  "win94": {
+    "intervals": {
+      "none": 0.94,
+      "2x": 1.34,
+      "4x": 1.34,
+      "6x": 1.34,
+      "8x": 1.34
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/win94",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "0.01s"
+    }
+  }
+}

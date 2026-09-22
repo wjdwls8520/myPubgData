@@ -1,0 +1,13 @@
+{
+  "weapons": 53,
+  "patchRecords": 196,
+  "categories": {
+    "AR": 13,
+    "LMG": 4,
+    "SMG": 9,
+    "DMR": 8,
+    "SR": 6,
+    "SHOTGUN": 6,
+    "HANDGUN": 7
+  }
+}

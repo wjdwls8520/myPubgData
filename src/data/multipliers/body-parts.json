@@ -1,0 +1,80 @@
+[
+  {
+    "id": "head",
+    "name": "Head",
+    "hitMultiplier": 1.0,
+    "armor": "helmet"
+  },
+  {
+    "id": "neck",
+    "name": "Neck",
+    "hitMultiplier": 0.75,
+    "armor": "helmet"
+  },
+  {
+    "id": "clavicle",
+    "name": "Clavicle",
+    "hitMultiplier": 1.0,
+    "armor": "vest"
+  },
+  {
+    "id": "chest",
+    "name": "Chest",
+    "hitMultiplier": 1.1,
+    "armor": "vest"
+  },
+  {
+    "id": "upper-stomach",
+    "name": "Upper Stomach",
+    "hitMultiplier": 1.0,
+    "armor": "vest"
+  },
+  {
+    "id": "lower-stomach",
+    "name": "Lower Stomach",
+    "hitMultiplier": 0.95,
+    "armor": "vest"
+  },
+  {
+    "id": "pelvis",
+    "name": "Pelvis",
+    "hitMultiplier": 1.0,
+    "armor": "vest"
+  },
+  {
+    "id": "upper-arm",
+    "name": "Upper Arm",
+    "hitMultiplier": 0.6,
+    "armor": "none"
+  },
+  {
+    "id": "forearm",
+    "name": "Forearm",
+    "hitMultiplier": 0.5,
+    "armor": "none"
+  },
+  {
+    "id": "hand",
+    "name": "Hand",
+    "hitMultiplier": 0.3,
+    "armor": "none"
+  },
+  {
+    "id": "thigh",
+    "name": "Thigh",
+    "hitMultiplier": 0.6,
+    "armor": "none"
+  },
+  {
+    "id": "calf",
+    "name": "Calf",
+    "hitMultiplier": 0.5,
+    "armor": "none"
+  },
+  {
+    "id": "foot",
+    "name": "Foot",
+    "hitMultiplier": 0.3,
+    "armor": "none"
+  }
+]

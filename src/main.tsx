@@ -1,0 +1,10 @@
+import { StrictMode } from 'react';
+import { createRoot } from 'react-dom/client';
+import { BrowserRouter } from 'react-router-dom';
+import { App } from './app/App';
+import { JsonWeaponRepository } from './data/repositories/weaponRepository';
+import './styles.css';
+const repository = new JsonWeaponRepository();
+const root = document.getElementById('root');
+if (!root) throw new Error('Missing application root');
+createRoot(root).render(<StrictMode><BrowserRouter useTransitions={false}><App repository={repository}/></BrowserRouter></StrictMode>);

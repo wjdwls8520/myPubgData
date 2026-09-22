@@ -1,0 +1,16 @@
+{
+  "version": "43.1",
+  "retrievedAt": "2026-09-22",
+  "referenceUpdatedAt": "2026-09-15",
+  "source": {
+    "source": "pubgstatistics public tables",
+    "sourceUrl": "https://pubgstatistics.com/weapons",
+    "gameVersion": "43.1",
+    "retrievedAt": "2026-09-22",
+    "confidence": "verified",
+    "precision": "displayed"
+  },
+  "rounding": "Public base samples have one decimal; raw precision unavailable.",
+  "interpolation": "linear within measured range only",
+  "health": 100
+}

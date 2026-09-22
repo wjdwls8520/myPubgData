@@ -1,0 +1,335 @@
+[
+  {
+    "id": "dp-28",
+    "slug": "dp-28",
+    "name": "DP-28",
+    "category": "LMG",
+    "ammoType": "7.62mm",
+    "baseDamage": 52.0,
+    "carePackage": false,
+    "status": "archived",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 225.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 52.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 52.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 52.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 49.2
+      },
+      {
+        "distance": 150.0,
+        "damage": 45.8
+      },
+      {
+        "distance": 200.0,
+        "damage": 42.4
+      },
+      {
+        "distance": 225.0,
+        "damage": 41.4
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "auto",
+      "rpm": 560,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "rpmOptions": [
+        560
+      ]
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "m249",
+    "slug": "m249",
+    "name": "M249",
+    "category": "LMG",
+    "ammoType": "5.56mm",
+    "baseDamage": 41.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 41.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 41.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 41.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 40.4
+      },
+      {
+        "distance": 150.0,
+        "damage": 39.0
+      },
+      {
+        "distance": 200.0,
+        "damage": 37.3
+      },
+      {
+        "distance": 250.0,
+        "damage": 35.7
+      },
+      {
+        "distance": 300.0,
+        "damage": 34.3
+      },
+      {
+        "distance": 400.0,
+        "damage": 32.8
+      },
+      {
+        "distance": 500.0,
+        "damage": 32.8
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "auto",
+      "rpm": 800,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "rpmOptions": [
+        800
+      ]
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "mg3",
+    "slug": "mg3",
+    "name": "MG3",
+    "category": "LMG",
+    "ammoType": "7.62mm",
+    "baseDamage": 42.0,
+    "carePackage": true,
+    "status": "active",
+    "muzzleVelocity": null,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 400.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 42.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 42.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 42.0
+      },
+      {
+        "distance": 100.0,
+        "damage": 40.8
+      },
+      {
+        "distance": 150.0,
+        "damage": 39.6
+      },
+      {
+        "distance": 200.0,
+        "damage": 38.4
+      },
+      {
+        "distance": 250.0,
+        "damage": 37.2
+      },
+      {
+        "distance": 300.0,
+        "damage": 36.1
+      },
+      {
+        "distance": 400.0,
+        "damage": 33.9
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "auto",
+      "rpm": 990,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "rpmOptions": [
+        990,
+        660
+      ]
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  },
+  {
+    "id": "rpd",
+    "slug": "rpd",
+    "name": "RPD",
+    "category": "LMG",
+    "ammoType": "7.62mm",
+    "baseDamage": 43.0,
+    "carePackage": false,
+    "status": "active",
+    "muzzleVelocity": 735,
+    "measuredRange": {
+      "min": 0.0,
+      "max": 500.0
+    },
+    "falloff": [
+      {
+        "distance": 0.0,
+        "damage": 43.0
+      },
+      {
+        "distance": 25.0,
+        "damage": 43.0
+      },
+      {
+        "distance": 50.0,
+        "damage": 42.9
+      },
+      {
+        "distance": 100.0,
+        "damage": 41.8
+      },
+      {
+        "distance": 150.0,
+        "damage": 40.6
+      },
+      {
+        "distance": 200.0,
+        "damage": 39.3
+      },
+      {
+        "distance": 250.0,
+        "damage": 38.1
+      },
+      {
+        "distance": 300.0,
+        "damage": 36.9
+      },
+      {
+        "distance": 400.0,
+        "damage": 34.6
+      },
+      {
+        "distance": 500.0,
+        "damage": 34.4
+      }
+    ],
+    "multiplierOverrides": {},
+    "projectile": {
+      "kind": "bullet",
+      "pelletCount": 1
+    },
+    "firing": {
+      "kind": "auto",
+      "rpm": 750,
+      "normalInterval": null,
+      "cycleLimit": null,
+      "rpmOptions": [
+        750
+      ]
+    },
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/rpd",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    },
+    "timingSource": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/rpd",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "derived",
+      "precision": "rounded-display-or-rpm"
+    }
+  }
+]

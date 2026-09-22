@@ -1,0 +1,5130 @@
+[
+  {
+    "weaponId": "ace32",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ace32",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ace32",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ace32",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ace32",
+    "patch": "23.2",
+    "date": "10 May 2023",
+    "sourceUrl": "https://pubg.com/en/news/6292?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ace32",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ace32",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ace32",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "akm",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/akm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "akm",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/akm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "akm",
+    "patch": "29.1",
+    "date": "8 April 2024",
+    "sourceUrl": "https://pubg.com/en/news/7172?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/akm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "39.1",
+    "date": "2 December 2025",
+    "sourceUrl": "https://pubg.com/en/news/9466?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "4%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "50%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "2.3%",
+          "4.5%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "13%",
+          "14%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "26.2",
+    "date": "1 November 2023",
+    "sourceUrl": "https://pubg.com/en/news/6833?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "4%",
+          "9.8%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "16%",
+          "13%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "25.2",
+    "date": "30 August 2023",
+    "sourceUrl": "https://pubg.com/en/news/6616?category=patch_notes",
+    "changes": [
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "750 RPM",
+          "720 RPM"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "aug",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "700 RPM",
+          "750 RPM"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "940m/s",
+          "890m/s"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/aug",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "awm",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/awm",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "beryl",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/beryl",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "beryl",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/beryl",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "bizon",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/bizon",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dbs",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dbs",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dbs",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      },
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "375 RPM",
+          "480 RPM"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "0.63s",
+          "0.45s"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "30%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dbs",
+    "patch": "28.1",
+    "date": "6 February 2024",
+    "sourceUrl": "https://pubg.com/en/news/7038?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "0.45s",
+          "0.63s"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "480 RPM",
+          "375 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dbs",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%",
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dbs",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "deagle",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/deagle",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dp-28",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dp-28",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dp-28",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dp-28",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dp-28",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dp-28",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "25%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "26.2",
+    "date": "1 November 2023",
+    "sourceUrl": "https://pubg.com/en/news/6833?category=patch_notes",
+    "changes": [
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "150 RPM",
+          "180 RPM"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "11%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "25.2",
+    "date": "30 August 2023",
+    "sourceUrl": "https://pubg.com/en/news/6616?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "dragunov",
+    "patch": "25.1",
+    "date": "2 August 2023",
+    "sourceUrl": "https://pubg.com/en/news/6548?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "830m/s",
+          "150 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/dragunov",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "famas",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/famas",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "famas",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/famas",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "famas",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "900 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/famas",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "g36c",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/g36c",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "g36c",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/g36c",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "groza",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/groza",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "groza",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/groza",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "28.1",
+    "date": "6 February 2024",
+    "sourceUrl": "https://pubg.com/en/news/7038?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "18%",
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "js9",
+    "patch": "27.1",
+    "date": "6 December 2023",
+    "sourceUrl": "https://pubg.com/en/news/6939?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "400m/s",
+          "900 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/js9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "k2",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/k2",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "kar98k",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/kar98k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "kar98k",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/kar98k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "lynx-amr",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/lynx-amr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "lynx-amr",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/lynx-amr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m16a4",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m16a4",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m16a4",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "600 RPM",
+          "800 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m16a4",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m16a4",
+    "patch": "20.1",
+    "date": "5 October 2022",
+    "sourceUrl": "https://pubg.com/en/news/1730?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m16a4",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m16a4",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m16a4",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m24",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m24",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m24",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m24",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m249",
+    "patch": "43.1",
+    "date": "10 September 2026",
+    "sourceUrl": "https://pubg.com/en/news/11057",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "0.30s",
+          "0.37s"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "17%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "27%"
+        ]
+      },
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m249",
+    "patch": "42.3",
+    "date": "12 August 2026",
+    "sourceUrl": "https://pubg.com/en/news/10885?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "30%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m249",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m249",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m249",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m416",
+    "patch": "39.1",
+    "date": "2 December 2025",
+    "sourceUrl": "https://pubg.com/en/news/9466?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m416",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m416",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m416",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m416",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m416",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "m416",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/m416",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mg3",
+    "patch": "43.1",
+    "date": "10 September 2026",
+    "sourceUrl": "https://pubg.com/en/news/11057",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "0.30s",
+          "0.37s"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "17%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mg3",
+    "patch": "42.3",
+    "date": "12 August 2026",
+    "sourceUrl": "https://pubg.com/en/news/10885?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "30%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mg3",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mg3",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mg3",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mg3",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "micro-uzi",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/micro-uzi",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "micro-uzi",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/micro-uzi",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "micro-uzi",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/micro-uzi",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "micro-uzi",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "10%",
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/micro-uzi",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mini-14",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "45%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mini-14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mini-14",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mini-14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mini-14",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mini-14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk12",
+    "patch": "40.1",
+    "date": "3 February 2026",
+    "sourceUrl": "https://pubg.com/en/news/9690?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "8%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk12",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "45%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk12",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk12",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "30%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk12",
+    "patch": "29.1",
+    "date": "8 April 2024",
+    "sourceUrl": "https://pubg.com/en/news/7172?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk14",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "33%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk14",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk14",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk14",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "667 RPM",
+          "600 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk14",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk47-mutant",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "600 RPM",
+          "800 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk47-mutant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk47-mutant",
+    "patch": "20.1",
+    "date": "5 October 2022",
+    "sourceUrl": "https://pubg.com/en/news/1730?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk47-mutant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mk47-mutant",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mk47-mutant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mosin-nagant",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mosin-nagant",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mosin-nagant",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mosin-nagant",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mosin-nagant",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mosin-nagant",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp5k",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp5k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp5k",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp5k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp5k",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp5k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp5k",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "7%",
+          "5%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp5k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp5k",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp5k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp9",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp9",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp9",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp9",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "mp9",
+    "patch": "19.1",
+    "date": "3 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1738?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "400m/s",
+          "000 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/mp9",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "o12",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "o12",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "o12",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%",
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "o12",
+    "patch": "20.2",
+    "date": "2 November 2022",
+    "sourceUrl": "https://pubg.com/en/news/1724?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "o12",
+    "patch": "18.2",
+    "date": "6 July 2022",
+    "sourceUrl": "https://pubg.com/en/news/1741?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "625m/s",
+          "480 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/o12",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p18c",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p18c",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p18c",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p18c",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p1911",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p1911",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p1911",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p1911",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p1911",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p1911",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p90",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "28.5%",
+          "25.75%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p90",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p90",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p90",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p90",
+    "patch": "32.1",
+    "date": "9 October 2024",
+    "sourceUrl": "https://pubg.com/en/news/7810?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p90",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p90",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p90",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p92",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p92",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "p92",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/p92",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbu",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbu",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbu",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbu",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbu",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "45%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbu",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbu",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbu",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbu",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbu",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "qbz",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/qbz",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "r1895",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/r1895",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "r1895",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/r1895",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "r45",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/r45",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "r45",
+    "patch": "41.1",
+    "date": "8 April 2026",
+    "sourceUrl": "https://pubg.com/en/news/9926?category=patch_notes",
+    "changes": [
+      {
+        "type": "removed",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/r45",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "r45",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/r45",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "rpd",
+    "patch": "43.1",
+    "date": "10 September 2026",
+    "sourceUrl": "https://pubg.com/en/news/11057",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "0.30s",
+          "0.37s"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "17%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "27%"
+        ]
+      },
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/rpd",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "rpd",
+    "patch": "42.3",
+    "date": "12 August 2026",
+    "sourceUrl": "https://pubg.com/en/news/10885?category=patch_notes",
+    "changes": [
+      {
+        "type": "added",
+        "direction": "changed",
+        "figures": [
+          "735m/s",
+          "750 RPM"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/rpd",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s12k",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s12k",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s12k",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "5%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s12k",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%",
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s12k",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s1897",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s1897",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "0.61s",
+          "0.55s"
+        ]
+      },
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s1897",
+    "patch": "28.1",
+    "date": "6 February 2024",
+    "sourceUrl": "https://pubg.com/en/news/7038?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "13%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "0.5s",
+          "0.61s"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s1897",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%",
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s1897",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s686",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s686",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s686",
+    "patch": "28.1",
+    "date": "6 February 2024",
+    "sourceUrl": "https://pubg.com/en/news/7038?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "14%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "s686",
+    "patch": "22.2",
+    "date": "8 March 2023",
+    "sourceUrl": "https://pubg.com/en/news/4555?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": [
+          "30%",
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/s686",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sawed-off",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sawed-off",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sawed-off",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sawed-off",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sawed-off",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sawed-off",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "scar-l",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/scar-l",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "scar-l",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/scar-l",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "scar-l",
+    "patch": "29.1",
+    "date": "8 April 2024",
+    "sourceUrl": "https://pubg.com/en/news/7172?category=patch_notes",
+    "changes": [
+      {
+        "type": "fire rate",
+        "direction": "buff",
+        "figures": [
+          "625 RPM",
+          "650 RPM"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "4%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/scar-l",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "skorpion",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/skorpion",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "skorpion",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/skorpion",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sks",
+    "patch": "39.1",
+    "date": "2 December 2025",
+    "sourceUrl": "https://pubg.com/en/news/9466?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sks",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sks",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "45%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sks",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sks",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sks",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "sks",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/sks",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "840m/s",
+          "870m/s"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "40.1",
+    "date": "3 February 2026",
+    "sourceUrl": "https://pubg.com/en/news/9690?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "4%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "39.1",
+    "date": "2 December 2025",
+    "sourceUrl": "https://pubg.com/en/news/9466?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": [
+          "12%"
+        ]
+      },
+      {
+        "type": "fire rate",
+        "direction": "nerf",
+        "figures": [
+          "45%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "slr",
+    "patch": "34.1",
+    "date": "11 February 2025",
+    "sourceUrl": "https://pubg.com/en/news/8170?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "15%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/slr",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "tommy-gun",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/tommy-gun",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "tommy-gun",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/tommy-gun",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "tommy-gun",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/tommy-gun",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "tommy-gun",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "changed",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%",
+          "7%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/tommy-gun",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "tommy-gun",
+    "patch": "29.2",
+    "date": "13 May 2024",
+    "sourceUrl": "https://pubg.com/en/news/7369?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "changed",
+        "figures": []
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/tommy-gun",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ump",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ump",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ump",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ump",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ump",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ump",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "ump",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "changed",
+        "figures": []
+      },
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "recoil",
+        "direction": "buff",
+        "figures": [
+          "5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/ump",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "38.1",
+    "date": "14 October 2025",
+    "sourceUrl": "https://pubg.com/en/news/9273?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "57%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": [
+          "51.5%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "33%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "40%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "25%",
+          "60%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "30.1",
+    "date": "11 June 2024",
+    "sourceUrl": "https://pubg.com/en/news/7424?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "2.6%",
+          "2.4%"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vector",
+    "patch": "19.2",
+    "date": "31 August 2022",
+    "sourceUrl": "https://pubg.com/en/news/1734?category=patch_notes",
+    "changes": [
+      {
+        "type": "attachments",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vector",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "42.1",
+    "date": "16 June 2026",
+    "sourceUrl": "https://pubg.com/en/news/10179?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "39.1",
+    "date": "2 December 2025",
+    "sourceUrl": "https://pubg.com/en/news/9466?category=patch_notes",
+    "changes": [
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "10%"
+        ]
+      },
+      {
+        "type": "recoil",
+        "direction": "nerf",
+        "figures": [
+          "5%"
+        ]
+      },
+      {
+        "type": "handling",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "37.1",
+    "date": "12 August 2025",
+    "sourceUrl": "https://pubg.com/en/news/9002?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "changed",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": [
+          "330m/s",
+          "430m/s"
+        ]
+      },
+      {
+        "type": "damage",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      },
+      {
+        "type": "spawn rate",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "vss",
+    "patch": "33.1",
+    "date": "3 December 2024",
+    "sourceUrl": "https://pubg.com/en/news/7988?category=patch_notes",
+    "changes": [
+      {
+        "type": "other",
+        "direction": "buff",
+        "figures": [
+          "20%"
+        ]
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/vss",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "win94",
+    "patch": "36.1",
+    "date": "10 June 2025",
+    "sourceUrl": "https://pubg.com/en/news/8725?category=patch_notes",
+    "changes": [
+      {
+        "type": "spawn rate",
+        "direction": "nerf",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/win94",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  },
+  {
+    "weaponId": "win94",
+    "patch": "35.1",
+    "date": "8 April 2025",
+    "sourceUrl": "https://pubg.com/en/news/8476?category=patch_notes",
+    "changes": [
+      {
+        "type": "handling",
+        "direction": "buff",
+        "figures": []
+      }
+    ],
+    "source": {
+      "source": "pubgstatistics public tables",
+      "sourceUrl": "https://pubgstatistics.com/weapons/win94",
+      "gameVersion": "43.1",
+      "retrievedAt": "2026-09-22",
+      "confidence": "verified",
+      "precision": "displayed"
+    }
+  }
+]
