@@ -1,0 +1,13 @@
+{
+  "source": "https://pubgstatistics.com/weapons",
+  "datasetVersion": "43.1",
+  "sourceUpdatedAt": "2026-09-15T11:11:31.000Z",
+  "retrievedAt": "2026-09-27",
+  "method": "Match telemetry damage curves and audio/video verified fire intervals reported by pubgstatistics.com; not an official KRAFTON export.",
+  "notes": [
+    "Per-weapon pubgVersion retained; not all curves were remeasured in patch 43.1.",
+    "Linear interpolation within measured range only; no extrapolation past maxDistance.",
+    "Display RPM rounded to nearest 10; perfect timing, 4x bolt scope, MG3 990 mode defaults.",
+    "Shotgun base damage per pellet; total mode assumes all pellets hit same region."
+  ]
+}

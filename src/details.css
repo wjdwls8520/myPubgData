@@ -1,0 +1,305 @@
+/* Detail-only additions; the accepted card/dealing styles stay in styles.css. */
+.physical[data-state="detail"] .physical-front {
+  display: flex;
+  flex-direction: column;
+}
+.physical[data-state="detail"] .physical-head {
+  flex-shrink: 0;
+  transition:
+    height 0.3s ease,
+    padding 0.3s ease,
+    border-width 0.3s ease,
+    background 0.4s;
+}
+.physical[data-state="detail"] .physical-head img {
+  transition: opacity 0.18s;
+}
+.physical[data-state="detail"][data-scrolled="true"] .physical-head {
+  height: 32px;
+  padding: 2px 10px;
+  border-top-width: 3px;
+}
+.physical[data-state="detail"][data-scrolled="true"] .physical-head .eyebrow {
+  display: none;
+}
+.physical[data-state="detail"][data-scrolled="true"] .physical-head img {
+  opacity: 0;
+  pointer-events: none;
+}
+.physical[data-state="detail"][data-scrolled="true"] h2 {
+  font-size: 14px;
+  line-height: 23px;
+  margin: 0 32px 0 0;
+  white-space: nowrap;
+  overflow: hidden;
+  text-overflow: ellipsis;
+}
+.physical[data-state="detail"][data-scrolled="true"] .physical-close {
+  top: 2px;
+  right: 8px;
+  width: 22px;
+  height: 22px;
+  line-height: 18px;
+  padding: 0;
+}
+.physical[data-state="detail"] .physical-details {
+  flex: 1;
+  height: auto;
+  min-height: 0;
+  overflow-y: auto;
+  overflow-x: hidden;
+  overscroll-behavior: contain;
+  touch-action: pan-y;
+  scrollbar-width: thin;
+  scrollbar-color: #9aa88b transparent;
+  scrollbar-gutter: stable;
+  padding: 14px 14px 18px;
+  outline-offset: -2px;
+  overflow-anchor: none;
+}
+.physical-details::-webkit-scrollbar {
+  width: 4px;
+}
+.physical-details::-webkit-scrollbar-thumb {
+  background: #9aa88b;
+  border-radius: 9px;
+}
+.physical-details::-webkit-scrollbar-track {
+  background: transparent;
+}
+.physical-details .summary {
+  grid-template-columns: repeat(3, minmax(0, 1fr));
+}
+.physical-details .metric small {
+  font-size: 8px;
+  font-weight: 500;
+}
+.armor-controls {
+  padding: 2px 0 5px;
+}
+.armor-controls .settings {
+  margin: 9px 0;
+  gap: 5px;
+}
+.armor-controls .settings > span {
+  margin-right: auto;
+  font-size: 10px;
+  color: #69735f;
+}
+.armor-controls button {
+  min-width: 34px;
+  font-size: 9px;
+  padding: 5px 6px;
+}
+.section-heading {
+  display: flex;
+  align-items: center;
+  justify-content: space-between;
+  gap: 8px;
+}
+.section-heading > span {
+  font:
+    600 9px "IBM Plex Mono",
+    sans-serif;
+  letter-spacing: 0.07em;
+  color: #727b68;
+}
+.section-heading strong {
+  font:
+    600 20px "IBM Plex Mono",
+    sans-serif;
+  color: #344d36;
+}
+.section-heading small {
+  font-size: 10px;
+}
+.distance-section {
+  padding: 12px 0 14px;
+  border-block: 1px solid #dce1d3;
+}
+.distance-section input[type="range"] {
+  display: block;
+  width: 100%;
+  height: 14px;
+  margin: 10px 0 0;
+  accent-color: #687f58;
+  cursor: ew-resize;
+}
+@media (prefers-reduced-motion: reduce) {
+  .physical[data-state="detail"] .physical-head,
+  .physical[data-state="detail"] .physical-head img,
+  .physical[data-state="detail"] h2 {
+    transition: none;
+  }
+}
+.range-caption {
+  display: flex;
+  justify-content: space-between;
+  gap: 10px;
+  font-size: 8px;
+  line-height: 1.6;
+  color: #89917f;
+  margin-top: 5px;
+}
+.body-heading {
+  margin-top: 14px;
+}
+.metric-tabs {
+  display: flex;
+  padding: 2px;
+  border-radius: 7px;
+  background: #e7ebdf;
+  gap: 2px;
+}
+.metric-tabs button {
+  border: 0;
+  background: transparent;
+  color: #77816d;
+  border-radius: 5px;
+  padding: 5px 8px;
+  font-size: 9px;
+  cursor: pointer;
+}
+.metric-tabs button.on {
+  background: #374333;
+  color: #f4f7ee;
+}
+.target-summary {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 6px;
+  padding: 11px 0 4px;
+  font-size: 9px;
+  color: #6f7965;
+}
+.target-summary strong {
+  font:
+    600 18px "IBM Plex Mono",
+    sans-serif;
+  color: #43583c;
+}
+.target-summary small {
+  font-size: 8px;
+}
+.body-diagram {
+  display: block;
+  width: 100%;
+  max-width: 390px;
+  margin: 4px auto;
+}
+.body-region {
+  cursor: pointer;
+  outline: none;
+}
+.body-region:hover path:first-of-type,
+.body-region:focus-visible path:first-of-type {
+  stroke: #344a35;
+  stroke-width: 2.5;
+  filter: brightness(1.04);
+}
+.body-label {
+  fill: #737e66;
+  font:
+    9px "Noto Sans KR",
+    sans-serif;
+}
+.body-value {
+  fill: #3a4c33;
+  font:
+    600 13px "IBM Plex Mono",
+    sans-serif;
+}
+.body-region.selected .body-value {
+  fill: #24381d;
+}
+.detail-hint,
+.data-warning {
+  font-size: 9px;
+  line-height: 1.7;
+  margin: 8px 0;
+  color: #7f8875;
+}
+.data-warning {
+  color: #936647;
+  background: #eee7d9;
+  border-radius: 6px;
+  padding: 8px;
+}
+.timing-controls {
+  display: grid;
+  gap: 7px;
+  border-top: 1px solid #dce1d3;
+  padding-top: 10px;
+}
+.timing-controls:empty {
+  display: none;
+}
+.timing-controls label {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  gap: 8px;
+  color: #6b765f;
+  font-size: 9px;
+}
+.timing-controls select {
+  max-width: 65%;
+  background: #f6f7ef;
+  border: 1px solid #cbd3bf;
+  border-radius: 5px;
+  padding: 5px;
+  color: #45533b;
+  font: inherit;
+}
+.data-source {
+  display: flex;
+  flex-wrap: wrap;
+  justify-content: space-between;
+  gap: 4px 8px;
+  padding-top: 10px;
+  border-top: 1px solid #dce1d3;
+  font-size: 8px;
+  line-height: 1.6;
+  color: #8a927f;
+}
+.data-source a {
+  color: #5f7651;
+  text-underline-offset: 2px;
+}
+.data-source span:last-child {
+  flex-basis: 100%;
+}
+@media (max-width: 850px) {
+  .physical[data-state="detail"] .physical-details {
+    padding: 10px 7px 14px;
+  }
+  .physical-details .summary {
+    gap: 4px;
+  }
+  .physical-details .metric b {
+    font-size: 12px;
+  }
+  .armor-controls .settings {
+    gap: 3px;
+    flex-wrap: wrap;
+  }
+  .armor-controls .settings > span {
+    flex-basis: 100%;
+  }
+  .armor-controls button {
+    min-width: 0;
+    flex: 1;
+    padding: 5px 3px;
+  }
+  .body-heading,
+  .target-summary {
+    flex-wrap: wrap;
+  }
+  .section-heading > span {
+    font-size: 8px;
+  }
+  .metric-tabs button {
+    padding: 5px;
+  }
+}
